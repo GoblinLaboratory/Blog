@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</loc>
+    <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/collaborativeproject/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/snippet/</loc>
+    <lastmod>2015-10-05T02:24:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/coolcode/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/coolwebsite/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/myproject/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/hugotheme/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/post/hello-world/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/tags/meta/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/post/</loc>
+    <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/tags/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/categories/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://goblinlaboratory.github.io/Blog/</loc>
+    <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
