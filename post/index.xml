@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on XuChao Blog</title>
-    <link>http://goblinlaboratory.github.io/Blog/post/index.xml</link>
+    <link>http://goblinlaboratory.github.io/post/index.xml</link>
     <description>Recent content in Posts on XuChao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://goblinlaboratory.github.io/Blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://goblinlaboratory.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Python 免费资源集合</title>
-      <link>http://goblinlaboratory.github.io/Blog/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</link>
+      <link>http://goblinlaboratory.github.io/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</guid>
+      <guid>http://goblinlaboratory.github.io/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</guid>
       <description>&lt;p&gt;Awesome Python ，这又是一个 Awesome XXX 系列的资源整理，由 vinta 发起和维护。内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。&lt;/p&gt;
 
 &lt;p&gt;这个系列没有推荐 Python 书籍、经典博文、交互教程，所以另外推荐：《&lt;a href=&#34;http://blog.jobbole.com/29281/&#34;&gt;25本免费的Python电子书&lt;/a&gt;》、《&lt;a href=&#34;http://blog.jobbole.com/71064/&#34;&gt;学习Python编程的11个（教程）资源&lt;/a&gt;》、《&lt;a href=&#34;http://hao.jobbole.com/pythonmonk/&#34;&gt;PythonMonk：Python交互式教程&lt;/a&gt;》、《&lt;a href=&#34;http://blog.jobbole.com/58226/&#34;&gt;Python程序员必知必会的开发者工具&lt;/a&gt;》。&lt;/p&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://goblinlaboratory.github.io/Blog/post/hello-world/</link>
+      <link>http://goblinlaboratory.github.io/post/hello-world/</link>
       <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/post/hello-world/</guid>
+      <guid>http://goblinlaboratory.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;

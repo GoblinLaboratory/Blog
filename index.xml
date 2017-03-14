@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XuChao Blog</title>
-    <link>http://goblinlaboratory.github.io/Blog/index.xml</link>
+    <link>http://goblinlaboratory.github.io/index.xml</link>
     <description>Recent content on XuChao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://goblinlaboratory.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://goblinlaboratory.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Python 免费资源集合</title>
-      <link>http://goblinlaboratory.github.io/Blog/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</link>
+      <link>http://goblinlaboratory.github.io/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</guid>
+      <guid>http://goblinlaboratory.github.io/post/Python%20%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/</guid>
       <description>&lt;p&gt;Awesome Python ，这又是一个 Awesome XXX 系列的资源整理，由 vinta 发起和维护。内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。&lt;/p&gt;
 
 &lt;p&gt;这个系列没有推荐 Python 书籍、经典博文、交互教程，所以另外推荐：《&lt;a href=&#34;http://blog.jobbole.com/29281/&#34;&gt;25本免费的Python电子书&lt;/a&gt;》、《&lt;a href=&#34;http://blog.jobbole.com/71064/&#34;&gt;学习Python编程的11个（教程）资源&lt;/a&gt;》、《&lt;a href=&#34;http://hao.jobbole.com/pythonmonk/&#34;&gt;PythonMonk：Python交互式教程&lt;/a&gt;》、《&lt;a href=&#34;http://blog.jobbole.com/58226/&#34;&gt;Python程序员必知必会的开发者工具&lt;/a&gt;》。&lt;/p&gt;
@@ -92,13 +92,13 @@
     
     <item>
       <title>Awesome Collaborative Project</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/collaborativeproject/</link>
+      <link>http://goblinlaboratory.github.io/project/collaborativeproject/</link>
       <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/collaborativeproject/</guid>
+      <guid>http://goblinlaboratory.github.io/project/collaborativeproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/Blog/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
 </description>
@@ -106,13 +106,13 @@
     
     <item>
       <title>Useful Code Snippet</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/snippet/</link>
+      <link>http://goblinlaboratory.github.io/project/snippet/</link>
       <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/snippet/</guid>
+      <guid>http://goblinlaboratory.github.io/project/snippet/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/Blog/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
 </description>
@@ -120,13 +120,13 @@
     
     <item>
       <title>A Cool Piece of Code</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/coolcode/</link>
+      <link>http://goblinlaboratory.github.io/project/coolcode/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/coolcode/</guid>
+      <guid>http://goblinlaboratory.github.io/project/coolcode/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/Blog/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://goblinlaboratory.github.io/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
 
@@ -138,10 +138,10 @@
     
     <item>
       <title>A Cool Website</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/coolwebsite/</link>
+      <link>http://goblinlaboratory.github.io/project/coolwebsite/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/coolwebsite/</guid>
+      <guid>http://goblinlaboratory.github.io/project/coolwebsite/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -154,10 +154,10 @@
     
     <item>
       <title>Another Cool Website</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/myproject/</link>
+      <link>http://goblinlaboratory.github.io/project/myproject/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/myproject/</guid>
+      <guid>http://goblinlaboratory.github.io/project/myproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Material Design Lite theme for Hugo</title>
-      <link>http://goblinlaboratory.github.io/Blog/project/hugotheme/</link>
+      <link>http://goblinlaboratory.github.io/project/hugotheme/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/project/hugotheme/</guid>
+      <guid>http://goblinlaboratory.github.io/project/hugotheme/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -186,10 +186,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://goblinlaboratory.github.io/Blog/post/hello-world/</link>
+      <link>http://goblinlaboratory.github.io/post/hello-world/</link>
       <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://goblinlaboratory.github.io/Blog/post/hello-world/</guid>
+      <guid>http://goblinlaboratory.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
